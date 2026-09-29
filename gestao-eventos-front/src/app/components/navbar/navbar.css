@@ -76,7 +76,7 @@
   display: inline-flex !important;
   align-items: center;
   gap: 8px;
-  background-color: #2563eb !important;
+  background-color: #16a34a !important;
   color: #ffffff !important;
   font-weight: 600 !important;
   padding: 8px 16px !important;
@@ -85,5 +85,5 @@
 }
 
 .btn-new:hover {
-  background-color: #1d4ed8 !important;
+  background-color: #15803d !important;
 }
